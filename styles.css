@@ -1,0 +1,46 @@
+* {
+  font-family: helvetica;
+}
+body {
+  max-width: 960px;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0 15px;
+  background: #f2f2f2;
+}
+.bb:last-child {
+  border-bottom: none;
+}
+h1 {
+  margin: 0;
+}
+h2 {
+  margin:2px 0;
+}
+ul {
+  margin:0;
+  padding-left: 0px;
+}
+li {
+  font-size: 20px;
+  display: inline-block;
+  padding: 5px 0;
+  list-style-type: none;
+
+}
+footer {
+  display:flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+footer a {
+  width: 75px;
+  cursor: default;
+  text-decoration: none;
+  text-align: center;
+}
+footer a:hover {
+  color: white;
+  font-weight: bold;
+}
