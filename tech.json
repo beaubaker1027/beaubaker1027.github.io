@@ -1,0 +1,64 @@
+{
+  "languages":{
+    "backend":[
+      "GraphQL",
+      "Node/Node(TS)",
+      "PHP",
+      "Ruby"
+    ],
+    "frontend":[
+      "Javascript",
+      "TypeScript",
+      "PureScript",
+      "SASS"
+    ]
+  },
+  "frameworks": {
+    "PHP": [
+      "slim"
+    ],
+    "Ruby": [
+      "Sinatra"
+    ],
+    "Node": [
+      "Express"
+    ],
+    "Frontend": [
+      "React",
+      "Preact",
+      "Elm",
+      "Angular",
+      "Vanilla"
+    ],
+    "Mobile": [
+      "Cordova",
+      "React Native"
+    ]
+  },
+  "libraries/Tools": {
+    "redux",
+    "ramda",
+    "webpack",
+    "babel",
+    "eslint",
+    "git",
+    "expo"
+  },
+  "persistence": {
+    "relational": [
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "nosql":[
+      "MongoDB"
+    ],
+  },
+  "topics": {
+    "buzzwords": [
+      "functional programming",
+      "domain driven develpment",
+      "test driven development",
+      "pure functional programming"
+    ]
+  }
+}

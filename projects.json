@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Uppákoma",
+    "description": "A localized social events mobile application",
+    "links": [
+      {
+        "label": "View",
+        "title": "Patreon",
+        "src": "https://www.patreon.com/posts/uppakoma-30967551"
+      }
+    ],
+    "tools": [
+      {
+        "label": "React Native",
+        "src": "https://facebook.github.io/react-native/"
+      },
+      {
+        "label": "ASP.Net core",
+        "src": "https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2"
+      },
+      {
+        "label": "MongoDB",
+        "src": "https://www.mongodb.com"
+      }
+    ]
+  },
+  {
+    "name": "Micron",
+    "description": "A nutritional information application utilizing the USDA Food Composition Database API",
+    "links": [
+      {
+        "label": "Backend",
+        "title": "Github",
+        "src": "https://github.com/beaubaker1027/micron-backend"
+      },
+      {
+        "label": "Frontend",
+        "title": "Github",
+        "src": "https://github.com/beaubaker1027/micron-frontend"
+      },
+      {
+        "label": "Web",
+        "title": "Micron",
+        "src": "https://micron-laika.herokuapp.com"
+      }
+    ],
+    "tools": [
+      {
+        "label": "React",
+        "src": "https://reactjs.org"
+      },
+      {
+        "label": "Node",
+        "src": "https://nodejs.org/en/"
+      },
+      {
+        "label": "MongoDB",
+        "src": "https://www.mongodb.com"
+      }
+    ]
+  },
+  {
+    "name": "Germ",
+    "description": "A plant journal",
+    "links": [
+      {
+        "label": "Frontend",
+        "title": "Github",
+        "src": "https://github.com/beaubaker1027/germ"
+      },
+      {
+        "label": "Web",
+        "title": "Germ",
+        "src": "https://kind-bhabha-fd9dfe.netlify.com"
+      }
+    ],
+    "tools": [
+      {
+        "label": "Javascript",
+        "src": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+      }
+    ]
+  }
+]
